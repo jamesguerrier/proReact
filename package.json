@@ -1,7 +1,7 @@
 {
   "name": "profo-app",
   "version": "0.1.0",
-  "homepage": "https://jamesguerrier.github.io/profoApp",
+  "homepage": "https://jamesguerrier.github.io/proReact",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
